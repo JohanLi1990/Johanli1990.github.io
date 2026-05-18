@@ -32,7 +32,7 @@ export default function Interests() {
             <p className="text-base leading-relaxed" style={{ color: 'var(--color-ink)' }}>
               Two artists live rent-free in my head:{' '}
               <a
-                href="https://www.youtube.com/@Animenz"
+                href="https://www.youtube.com/@Animenzzz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 font-semibold transition-colors"
@@ -45,7 +45,7 @@ export default function Interests() {
               , whose piano arrangements of anime soundtracks turn familiar
               melodies into something close to overwhelming; and{' '}
               <a
-                href="https://www.youtube.com/@NeyoOfficial"
+                href="https://www.youtube.com/channel/UCvtkFm0XlCLqyvtP7UpqAoA"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 font-semibold transition-colors"
