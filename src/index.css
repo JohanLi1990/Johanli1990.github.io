@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-teal: #00778B;
+  --color-purple: #1D1160;
+  --color-base: #FAFAFA;
+  --color-warm: #F5F5F0;
+  --color-ink: #1A1A1A;
+  --color-muted: #6B7280;
+  --color-border: #E5E7EB;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-base);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
