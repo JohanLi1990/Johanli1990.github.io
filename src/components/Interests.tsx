@@ -18,7 +18,7 @@ export default function Interests() {
             </p>
             <p className="text-base leading-relaxed" style={{ color: 'var(--color-ink)' }}>
               Proud Charlotte Hornets fan. I’ve watched this team through the highs, the lows, and
-              the very-much-lows. We are one piece away from a playoff contender. 
+              the very-much-lows. We are one piece away from being a playoff contender.
             </p>
           </div>
 
